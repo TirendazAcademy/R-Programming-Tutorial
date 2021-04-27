@@ -1,0 +1,4 @@
+Levent   25
+Buse     24
+Zeynep   18
+Ali      33
