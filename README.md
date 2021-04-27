@@ -4,7 +4,7 @@
 
 ## In this repo, I am going to mention some information about R programming that talked about in [1 YouTube video](https://youtube.com/tirendazakademi). This video covers the topics below
 
-00:05:19 What is R?
+00:05:19 What is R? <br>
 00:06:40 The advantages of R
 00:08:27 R setup
 00:09:47 R Studio setup
