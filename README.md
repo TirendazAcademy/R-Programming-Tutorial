@@ -1,8 +1,32 @@
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png)
+![](https://github.com/TirendazAcademy/R-Programming-Tutorial/blob/main/Images/R.png)
 
-# Hi, Welcome to Tirendaz Academy
+[![](https://img.shields.io/badge/R-Programming-00092C?&style=plastic&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/GGPLOT-darkorange?&style=plastic&logo=ggplot&logoColor=white)]()
+[![](https://img.shields.io/badge/DataScience-470D21?&style=plastic&logo=DataScience&logoColor=white)]()
+[![](https://img.shields.io/badge/MachineLearning-darkgreen?&style=plastic&logo=MachineLearning&logoColor=white)]()
 
-## In this repo, I am going to mention some information about R programming that talked about in [1 YouTube video](https://youtube.com/tirendazakademi). This video covers the topics below
+
+## Introduction to R
+
+R is a language and environment for statistical computing and graphics. R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering) and graphical techniques, and is highly extensible. One of R’s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed. 
+
+## The R environment
+
+R is an integrated suite of software facilities for data manipulation, calculation and graphical display. It includes
+
+- an effective data handling and storage facility,
+- a suite of operators for calculations on arrays, in particular matrices,
+- a large, coherent, integrated collection of intermediate tools for data analysis,
+- graphical facilities for data analysis and display either on-screen or on hardcopy, and
+- a well-developed, simple and effective programming language which includes conditionals, loops, user-defined recursive functions and input and output facilities.
+
+## What is this repo?
+
+This repo contains tutorials about data science with R that talked about in [1 YouTube video](https://www.youtube.com/watch?v=VUkHNM4hVvI). 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VUkHNM4hVvI" target="_blank"><img src="http://img.youtube.com/vi/VUkHNM4hVvI/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
+This video covers the topics below.
 
 00:05:19 What is R? <br>
 00:06:40 The advantages of R <br>
@@ -37,3 +61,7 @@
 03:10:05 Data visualization with ggplot2 <br>
 03:22:27 Regression analysis <br>
 03:42:51 Logistic regression analysis <br>
+
+📌 If you enjoy this repo, don't forget to give me a ✨. Thanks for reading 😀
+
+🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
